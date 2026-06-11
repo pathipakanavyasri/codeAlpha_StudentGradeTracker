@@ -1,12 +1,7 @@
 # codeAlpha_StudentGradeTracker
-java project for managing student grades and generating reports.
-# Student Grade Tracker
-
-## Project Description
-
 Student Grade Tracker is a Java console-based application that helps manage student grades efficiently. The program allows users to enter student details and marks, calculate average scores, determine grades, and generate performance reports.
 
-## Features
+# Features
 
 * Add student information
 * Enter and store marks
@@ -15,13 +10,13 @@ Student Grade Tracker is a Java console-based application that helps manage stud
 * Display student reports
 * Simple and user-friendly console interface
 
-## Technologies Used
+# Technologies Used
 
 * Java
 * Object-Oriented Programming (OOP)
 * VS Code
 
-## How to Run
+# How to Run
 
 1. Install Java JDK.
 2. Open the project in VS Code.
@@ -30,7 +25,31 @@ Student Grade Tracker is a Java console-based application that helps manage stud
 4. Run the program:
    java StudentGradeTracker
 
-## Learning Outcomes
+# sample output
+===== STUDENT GRADE TRACKER =====
+
+Enter number of students: 3
+
+Enter details for Student 1
+Name: Ravi
+Marks: 85
+
+Enter details for Student 2
+Name: Priya
+Marks: 92
+
+Enter details for Student 3
+Name: Arun
+Marks: 78
+
+===== SUMMARY =====
+
+Average Marks : 85.0
+Highest Marks : 92
+Lowest Marks  : 78
+Topper        : Priya
+
+# Learning Outcomes
 
 This project helped me understand:
 
@@ -40,7 +59,7 @@ This project helped me understand:
 * Methods and classes
 * Basic project structure and GitHub usage
 
-## Author
+# Author
 
 Navya Sri
 
